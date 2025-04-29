@@ -1,0 +1,1 @@
+.formLabel{display:block;margin:5px}button{display:block;padding:5px;margin-top:15px;background-color:#1919c8;color:#fff}table{border-collapse:collapse}th,td{border:1px solid black;padding:6px}button.edit{background-color:green;padding:5px;margin-top:15px}button.delete{background-color:red;padding:5px;margin-top:15px}tbody tr:nth-child(2n){background-color:#d3d3d3}
